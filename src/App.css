@@ -36,3 +36,87 @@
     transform: rotate(360deg);
   }
 }
+.Headar{
+  display: flex;
+  background: #139990 !important;
+  border:2px solid #4708db10 !important;
+
+}
+.tab1{
+  color: #03519e;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid #0839dbf3;
+  border-radius: 10px;
+  padding: 10px;
+  font-weight: 900;
+
+}
+.tab1:hover{
+  background-color: darkblue;
+  color: antiquewhite;
+  border: 2px solid rgba(255, 60, 0, 0.952);
+}
+.tab2{
+  color: #4b039e ;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20px;
+  border: 2px solid #0839dbf3;
+  border-radius: 5px ;
+  padding: 10px;
+  font-weight: 900;
+}
+.tab2:hover{
+  background-color: darkblue;
+  color: antiquewhite;
+  border: 2px solid rgba(255, 60, 0, 0.952);
+}
+.tab3:hover{
+  background-color: darkblue;
+  color: antiquewhite;
+  border: 2px solid rgba(255, 60, 0, 0.952);
+}
+.tab3{
+  color: #f1737af5;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 20 px;
+  border-radius: 5px;
+  border: 2px solid #0839dbf3;
+  padding: 10px;
+  font-weight: 900;
+  
+}
+.searchInput{
+  color: whitesmoke !important;
+  border-radius: 10px !important;
+  width: 100% !important;
+  border:2px solid red !important;
+  background-color: black;
+  height: 50px;
+  font-size: 16px;
+  font-weight: 700;
+}
+.editBtn{
+  background-color: rgb(156, 39, 150) !important;
+  border: 2px Solid  rgb(14, 106, 243) !important;
+  color:rgb(236, 162, 22) !important;
+  margin-bottom: 4px !important;
+}
+.editBtn:hover{
+  background-color: yellow !important;
+  color: #4b039e !important;
+
+}
+.deleteBtn{
+  background-color: rgb(223, 23, 16) !important;
+  border: 2px Solid  rgb(243, 14, 14) !important;
+  color:rgb(236, 22, 225) !important;
+}
+.deleteBtn:hover{
+  background-color: yellow !important;
+  color: #4b039e !important;
+
+}
